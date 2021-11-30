@@ -1,0 +1,13 @@
+Labels
+the thing which we are predicting in ML model or we can also say that it is output in a program.
+Features 
+it is the input variable  in a ML program or the data which is used to train the model.
+
+Models- relationship between labels and features.
+
+Both regression and classification model predicts the label.
+
+
+Regression- it preditcs continuos values(ex-values,probability).
+
+Classification- it predicts didcrete values(ex-spam not spam, cator dog).
